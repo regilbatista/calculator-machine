@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculator-machine/build/static/css/main.40e2ac0c.css",
+    "main.js": "/calculator-machine/build/static/js/main.ff47a670.js",
+    "static/js/453.1b7e5224.chunk.js": "/calculator-machine/build/static/js/453.1b7e5224.chunk.js",
+    "index.html": "/calculator-machine/build/index.html",
+    "main.40e2ac0c.css.map": "/calculator-machine/build/static/css/main.40e2ac0c.css.map",
+    "main.ff47a670.js.map": "/calculator-machine/build/static/js/main.ff47a670.js.map",
+    "453.1b7e5224.chunk.js.map": "/calculator-machine/build/static/js/453.1b7e5224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e2ac0c.css",
+    "static/js/main.ff47a670.js"
+  ]
+}
